@@ -1,0 +1,23 @@
+form{
+    color: blueviolet;
+    background: wheat;
+}
+
+.id1{
+    color: brown;
+    background: rgb(214, 142, 8);
+}
+
+p{
+    color: red;
+    background:#13d3a0;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    border: 2px #000 solid;
+    border-radius: 0.5rem;
+     
+}
+#id2{
+    color: palevioletred;
+}
